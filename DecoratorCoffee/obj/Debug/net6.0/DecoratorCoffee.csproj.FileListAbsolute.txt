@@ -1,0 +1,14 @@
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Decorator\DecoratorCoffee\bin\Debug\net6.0\DecoratorCoffee.exe
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Decorator\DecoratorCoffee\bin\Debug\net6.0\DecoratorCoffee.deps.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Decorator\DecoratorCoffee\bin\Debug\net6.0\DecoratorCoffee.runtimeconfig.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Decorator\DecoratorCoffee\bin\Debug\net6.0\DecoratorCoffee.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Decorator\DecoratorCoffee\bin\Debug\net6.0\DecoratorCoffee.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Decorator\DecoratorCoffee\obj\Debug\net6.0\DecoratorCoffee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Decorator\DecoratorCoffee\obj\Debug\net6.0\DecoratorCoffee.AssemblyInfoInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Decorator\DecoratorCoffee\obj\Debug\net6.0\DecoratorCoffee.AssemblyInfo.cs
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Decorator\DecoratorCoffee\obj\Debug\net6.0\DecoratorCoffee.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Decorator\DecoratorCoffee\obj\Debug\net6.0\DecoratorCoffee.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Decorator\DecoratorCoffee\obj\Debug\net6.0\refint\DecoratorCoffee.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Decorator\DecoratorCoffee\obj\Debug\net6.0\DecoratorCoffee.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Decorator\DecoratorCoffee\obj\Debug\net6.0\DecoratorCoffee.genruntimeconfig.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Decorator\DecoratorCoffee\obj\Debug\net6.0\ref\DecoratorCoffee.dll

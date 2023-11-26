@@ -1,0 +1,14 @@
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Decorator\DecoratorBurger\bin\Debug\net6.0\DecoratorBurger.exe
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Decorator\DecoratorBurger\bin\Debug\net6.0\DecoratorBurger.deps.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Decorator\DecoratorBurger\bin\Debug\net6.0\DecoratorBurger.runtimeconfig.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Decorator\DecoratorBurger\bin\Debug\net6.0\DecoratorBurger.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Decorator\DecoratorBurger\bin\Debug\net6.0\DecoratorBurger.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Decorator\DecoratorBurger\obj\Debug\net6.0\DecoratorBurger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Decorator\DecoratorBurger\obj\Debug\net6.0\DecoratorBurger.AssemblyInfoInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Decorator\DecoratorBurger\obj\Debug\net6.0\DecoratorBurger.AssemblyInfo.cs
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Decorator\DecoratorBurger\obj\Debug\net6.0\DecoratorBurger.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Decorator\DecoratorBurger\obj\Debug\net6.0\DecoratorBurger.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Decorator\DecoratorBurger\obj\Debug\net6.0\refint\DecoratorBurger.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Decorator\DecoratorBurger\obj\Debug\net6.0\DecoratorBurger.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Decorator\DecoratorBurger\obj\Debug\net6.0\DecoratorBurger.genruntimeconfig.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Decorator\DecoratorBurger\obj\Debug\net6.0\ref\DecoratorBurger.dll
